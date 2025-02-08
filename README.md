@@ -1,4 +1,5 @@
-# <h1 align="center">Osayemwenre Osaigbovo</h1><br/><p align="Center">[![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Github;My+Name+Is+Osayemwenre;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg) </p>
+<h1 align="center">Osayemwenre Osaigbovo</h1>
+<p align="Center">[![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Github;My+Name+Is+Osayemwenre;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg) </p>
 
 
 - 👋 Hi, I’m a Web and Mobile App Deveolper
