@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" width="30px" height="30px">
   <a href="https://github.com/Sayere1">
     Osayemwenre Osaigbovo</a>
 </p>
